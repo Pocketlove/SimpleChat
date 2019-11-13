@@ -1,0 +1,13 @@
+F:\Программирование\Программы\Примитивный Чат\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Программирование\Программы\Примитивный Чат\ConsoleApplication1\ConsoleApplication1\bin\Release\SimpleChat.exe.config
+F:\Программирование\Программы\Примитивный Чат\ConsoleApplication1\ConsoleApplication1\bin\Release\SimpleChat.exe
+F:\Программирование\Программы\Примитивный Чат\ConsoleApplication1\ConsoleApplication1\bin\Release\SimpleChat.pdb
+F:\Программирование\Программы\Примитивный Чат\ConsoleApplication1\ConsoleApplication1\obj\Release\SimpleChat.exe
+F:\Программирование\Программы\Примитивный Чат\ConsoleApplication1\ConsoleApplication1\obj\Release\SimpleChat.pdb
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\ConsoleApplication1\ConsoleApplication1\bin\Release\SimpleChat.exe.config
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\ConsoleApplication1\ConsoleApplication1\bin\Release\SimpleChat.exe
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\ConsoleApplication1\ConsoleApplication1\bin\Release\SimpleChat.pdb
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojAssemblyReference.cache
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\ConsoleApplication1\ConsoleApplication1\obj\Release\SimpleChat.exe
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\ConsoleApplication1\ConsoleApplication1\obj\Release\SimpleChat.pdb

@@ -1,0 +1,7 @@
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\Simple Chat Project\SimpleChat\bin\Debug\SimpleChat.exe.config
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\Simple Chat Project\SimpleChat\bin\Debug\SimpleChat.exe
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\Simple Chat Project\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\Simple Chat Project\SimpleChat\obj\Debug\SimpleChat.csprojAssemblyReference.cache
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\Simple Chat Project\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\Simple Chat Project\SimpleChat\obj\Debug\SimpleChat.exe
+D:\Documents\Personal\Computer Science\IT Projects\Important\Simple PtP Chat\Simple Chat Project\SimpleChat\obj\Debug\SimpleChat.pdb
