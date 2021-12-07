@@ -7,7 +7,7 @@ the user is prompted to choose their nickname for the session. From that point o
 
 Since essentially both clients act as each other's server, this chat is peer-to-peer.
 
-Ignore any bad practices (of which there are probably many) that you may encounter - I was really young back then.
+Ignore any bad practices (of which there are many) that you may encounter - I was really young back then.
 Same goes for any bugs that you ecounter. Since this project is long abandoned, 
 I'm not planning on fixing anything - it does what it was intended to do well enough. Feel free to fix it for yourself if you want though.
 
